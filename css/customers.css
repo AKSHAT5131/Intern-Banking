@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f2f2f2;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #323534e1!important;
+}
+
+.navbar-brand{
+    
+    font-size: 1.5rem;
+    color: #e5ecf8!important;
+}
+
+.nav-link{
+    color: #e5ecf8!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: rgb(52 53 62);
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    display: inline-block;
+    background-color: #3c3f3de1!important;
+    color: #FFF!important;
+    padding: .75rem 1rem;
+    border-radius: .5rem;
+    transition: .3s;
+}
+
+.btn-info:hover{
+    background-color: #2d9b16d0!important;
+}
+
+.table-title{
+    font-weight: bold;
+    color: #fff !important;
+    background-color: #e5ecf8;
+}
+
+.table-1{
+    background-color:mintcream ;
+}
+
+.table-2{
+    background-color: #fff;
+
+}
